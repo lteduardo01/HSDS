@@ -1,41 +1,119 @@
-<mxfile host="app.diagrams.net" modified="2023-09-27T12:39:41.045Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" version="21.8.2" etag="Mydux4xHhWFqypOc1sLq" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-02T16:59:08.495Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="SM5soWQXu6iGgmp3DgkR" version="22.0.0" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1223" dy="871" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="998" dy="538" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="#000000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-11" value="Orgchart" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" parent="1" vertex="1">
-          <mxGeometry x="40" y="80" width="710" height="290" as="geometry" />
+        <mxCell id="BU61eWCHw4I7Bwa2Z5hV-1" value="" style="sketch=0;outlineConnect=0;fontColor=#ffffff;fillColor=#1ba1e2;strokeColor=#006EAF;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.user;gradientColor=#66B2FF;" vertex="1" parent="1">
+          <mxGeometry x="788" y="1030" width="78" height="78" as="geometry" />
         </mxCell>
-        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Tessa Miller" position="CFO" location="Office 1" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-12">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
-            <mxGeometry x="260" y="50" width="180" height="70" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-13" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-12" target="dNxyNK7c78bLwvsdeMH5-14" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="BU61eWCHw4I7Bwa2Z5hV-2" value="Input" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="797" y="1108" width="60" height="30" as="geometry" />
         </mxCell>
-        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Edward Morrison" position="Brand Manager" location="Office 2" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-14">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
-            <mxGeometry x="40" y="180" width="180" height="80" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-15" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-12" target="dNxyNK7c78bLwvsdeMH5-16" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="BU61eWCHw4I7Bwa2Z5hV-3" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#FFFFFF;flowAnimation=1;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="829" y="1028" as="sourcePoint" />
+            <mxPoint x="825" y="952" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="829" y="1013" />
+              <mxPoint x="825" y="1013" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Evan Valet" position="HR Director" location="Office 4" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-16">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
-            <mxGeometry x="260" y="180" width="180" height="80" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-17" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-12" target="dNxyNK7c78bLwvsdeMH5-18" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="BU61eWCHw4I7Bwa2Z5hV-7" value="" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;glass=0;shadow=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="734" y="824" width="185" height="98" as="geometry" />
         </mxCell>
-        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-18">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
-            <mxGeometry x="490" y="180" width="180" height="80" as="geometry" />
-          </mxCell>
-        </UserObject>
+        <mxCell id="BU61eWCHw4I7Bwa2Z5hV-8" value="Set Hospital" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="793" y="922" width="68" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BU61eWCHw4I7Bwa2Z5hV-9" value="1) Hospital Salvatoriano Divino Salvador" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="736" y="861" width="181" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BU61eWCHw4I7Bwa2Z5hV-10" value="2) Hospital Salvatoriano Santa Maria" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="729" y="880" width="181" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BU61eWCHw4I7Bwa2Z5hV-16" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 9px;&quot;&gt;Bem-vindo(a) ao atendimento online, selecione um de nossos hospitais para prosseguir:&amp;nbsp;&amp;nbsp;&lt;/font&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="745" y="835" width="178.63" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="BU61eWCHw4I7Bwa2Z5hV-25" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#FFFFFF;flowAnimation=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=1.017;entryY=0.607;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="607.9999999999992" y="880" as="sourcePoint" />
+            <mxPoint x="598.22" y="810.21" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="632" y="880" />
+              <mxPoint x="632" y="810" />
+              <mxPoint x="603" y="810" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BU61eWCHw4I7Bwa2Z5hV-26" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#FFFFFF;flowAnimation=1;exitX=1.006;exitY=0.626;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="BU61eWCHw4I7Bwa2Z5hV-36">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="918.9999999999997" y="890.108" as="sourcePoint" />
+            <mxPoint x="1042" y="872" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="927" y="890" />
+              <mxPoint x="927" y="958" />
+              <mxPoint x="1073" y="958" />
+              <mxPoint x="1073" y="937" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BU61eWCHw4I7Bwa2Z5hV-33" value="" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;glass=0;shadow=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="1045" y="824" width="185" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="BU61eWCHw4I7Bwa2Z5hV-34" value="" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;glass=0;shadow=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="423" y="824" width="185" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="BU61eWCHw4I7Bwa2Z5hV-36" value="Set Recepção" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1097.5" y="922" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BU61eWCHw4I7Bwa2Z5hV-37" value="Set Recepção" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="478" y="922" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BU61eWCHw4I7Bwa2Z5hV-38" value="1) Recepção de Internação" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="397" y="839" width="181" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BU61eWCHw4I7Bwa2Z5hV-39" value="&lt;font color=&quot;#ffffff&quot;&gt;Selecione uma de nossas recepções:&lt;/font&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="432" y="828" width="178.63" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="BU61eWCHw4I7Bwa2Z5hV-41" value="2) Recepção Pronto Atendimento" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="409" y="852" width="181" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BU61eWCHw4I7Bwa2Z5hV-42" value="3) Recepção de Imagem" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="391" y="865" width="181" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BU61eWCHw4I7Bwa2Z5hV-44" value="&lt;font color=&quot;#ffffff&quot;&gt;Selecione uma de nossas recepções:&lt;/font&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="1055" y="824" width="178.63" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="BU61eWCHw4I7Bwa2Z5hV-45" value="2) Recepção Pronto Atendimento" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="1031" y="839" width="181" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BU61eWCHw4I7Bwa2Z5hV-59" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#FFFFFF;flowAnimation=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="734.0000000000002" y="876" as="sourcePoint" />
+            <mxPoint x="558" y="937" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="727" y="876" />
+              <mxPoint x="727" y="955" />
+              <mxPoint x="584" y="955" />
+              <mxPoint x="584" y="937" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BU61eWCHw4I7Bwa2Z5hV-76" value="Números WhatsApp" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="435.5" y="708" width="160" height="116" as="geometry">
+            <mxRectangle x="435.5" y="712" width="57" height="29" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BU61eWCHw4I7Bwa2Z5hV-77" value="Item 1" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;fontColor=#FFFFFF;labelBorderColor=none;" vertex="1" parent="BU61eWCHw4I7Bwa2Z5hV-76">
+          <mxGeometry y="26" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BU61eWCHw4I7Bwa2Z5hV-78" value="Item 2" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;fontColor=#FFFFFF;" vertex="1" parent="BU61eWCHw4I7Bwa2Z5hV-76">
+          <mxGeometry y="56" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BU61eWCHw4I7Bwa2Z5hV-79" value="Item 3" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;fontColor=#FFFFFF;" vertex="1" parent="BU61eWCHw4I7Bwa2Z5hV-76">
+          <mxGeometry y="86" width="160" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
